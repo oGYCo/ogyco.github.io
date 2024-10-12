@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ogyco.github.io/2024/10/12/%E6%B5%8B%E8%AF%95/</loc>
+    
+    <lastmod>2024-10-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ogyco.github.io/2024/10/12/%E9%A2%98%E8%A7%A3/</loc>
+    
+    <lastmod>2024-10-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ogyco.github.io/2024/10/12/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/</loc>
+    
+    <lastmod>2024-10-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ogyco.github.io/2024/10/12/%E8%BE%97%E8%BD%AC%E7%9B%B8%E9%99%A4%E6%B3%95/</loc>
+    
+    <lastmod>2024-10-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ogyco.github.io/personal/love/index.html</loc>
     
     <lastmod>2024-10-12</lastmod>
@@ -119,27 +155,9 @@
   </url>
   
   <url>
-    <loc>https://ogyco.github.io/2024/10/12/%E6%95%B0%E5%AD%A6/</loc>
-    
-    <lastmod>2024-10-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://ogyco.github.io/site/echarts/index.html</loc>
     
     <lastmod>2024-10-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ogyco.github.io/2024/10/12/%E5%AE%9E%E9%AA%8C/</loc>
-    
-    <lastmod>2024-10-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -158,15 +176,6 @@
     <loc>https://ogyco.github.io/tags/index.html</loc>
     
     <lastmod>2024-10-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ogyco.github.io/2024/10/11/</loc>
-    
-    <lastmod>2024-10-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -213,10 +222,38 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://ogyco.github.io/tags/%E6%95%B0%E8%AE%BA/</loc>
+    <lastmod>2024-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ogyco.github.io/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/</loc>
+    <lastmod>2024-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
-    <loc>https://ogyco.github.io/categories/%E6%BC%94%E7%A4%BA/</loc>
+    <loc>https://ogyco.github.io/categories/%E9%97%AA%E7%81%B5%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2024-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ogyco.github.io/categories/%E6%B0%B8%E4%B9%85%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2024-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ogyco.github.io/categories/%E8%B5%84%E6%96%99/</loc>
     <lastmod>2024-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
