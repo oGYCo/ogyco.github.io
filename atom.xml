@@ -6,7 +6,7 @@
   <link href="https://ogyco.github.io/atom.xml" rel="self"/>
   
   <link href="https://ogyco.github.io/"/>
-  <updated>2024-10-13T08:17:33.748Z</updated>
+  <updated>2024-10-13T09:34:49.980Z</updated>
   <id>https://ogyco.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>补题</title>
+    <link href="https://ogyco.github.io/2024/10/13/%E8%A1%A5%E9%A2%98/"/>
+    <id>https://ogyco.github.io/2024/10/13/%E8%A1%A5%E9%A2%98/</id>
+    <published>2024-10-13T09:32:37.000Z</published>
+    <updated>2024-10-13T09:34:49.980Z</updated>
+    
+    <content type="html"><![CDATA[<h1>模拟</h1><p>[儒略日]([P7075 <a href="https://www.luogu.com.cn/problem/P7075">CSP-S2020] 儒略日 - 洛谷 | 计算机科学教育新生态 (luogu.com.cn)</a>)</p><p>[魔兽世界](<a href="http://bailian.openjudge.cn/practice/3750/">OpenJudge - 3750:魔兽世界</a>)</p><p>[猪国杀]([P2482 <a href="https://www.luogu.com.cn/problem/P2482">SDOI2010] 猪国杀 - 洛谷 | 计算机科学教育新生态 (luogu.com.cn)</a>)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1&gt;模拟&lt;/h1&gt;
+&lt;p&gt;[儒略日]([P7075 &lt;a href=&quot;https://www.luogu.com.cn/problem/P7075&quot;&gt;CSP-S2020] 儒略日 - 洛谷 | 计算机科学教育新生态 (luogu.com.cn)&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;[魔兽</summary>
+      
+    
+    
+    
+    
+    <category term="题目" scheme="https://ogyco.github.io/tags/%E9%A2%98%E7%9B%AE/"/>
+    
+  </entry>
   
   <entry>
     <title>枚举</title>
